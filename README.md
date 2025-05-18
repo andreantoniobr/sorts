@@ -26,7 +26,7 @@ Este projeto foi desenvolvido com o objetivo de **visualizar e comparar em tempo
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [Unity](https://unity.com/) (versão utilizada: *insira a versão aqui*)
+- [Unity](https://unity.com/) (versão utilizada: 2022.3.44f)
 - C# (lógica dos algoritmos)
 - Visual Studio (IDE para desenvolvimento)
 
@@ -35,7 +35,7 @@ Este projeto foi desenvolvido com o objetivo de **visualizar e comparar em tempo
 ## 📹 Como Funciona
 
 - O usuário inicia a cena com um array de números inteiros.
-- É instanciado barras com a quantidade de elementos do array e o comprimento de cada barra corresponde ao valor do numero naquele index.
+- É instanciado barras com a quantidade de elementos do array e o comprimento de cada barra corresponde ao valor do número naquele index.
 - Depois é realizado ajustes no comprimento e distanciamento das barras para melhor preenchimento na tela.
 - Duas áreas são exibidas na tela: uma para o **HeapSort** e outra para o **MergeSort**.
 - As barras são ordenadas em tempo real por cada algoritmo, com animações passo a passo.
@@ -61,4 +61,4 @@ Este projeto foi desenvolvido com o objetivo de **visualizar e comparar em tempo
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/andreantoniobr/sorts.git
