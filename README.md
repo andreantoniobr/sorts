@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com o objetivo de **visualizar e comparar em tempo
 
 ### 🔹 Meio do processo (sorting em andamento)
 
-![Meio do Sorting](Images/mSorting.png)
+![Meio do Sorting](Images/Sorting.png)
 
 ---
 
@@ -34,7 +34,9 @@ Este projeto foi desenvolvido com o objetivo de **visualizar e comparar em tempo
 
 ## 📹 Como Funciona
 
-- O usuário inicia a cena com um array de barras representando números inteiros.
+- O usuário inicia a cena com um array de números inteiros.
+- É instanciado barras com a quantidade de elementos do array e o comprimento de cada barra corresponde ao valor do numero naquele index.
+- Depois é realizado ajustes no comprimento e distanciamento das barras para melhor preenchimento na tela.
 - Duas áreas são exibidas na tela: uma para o **HeapSort** e outra para o **MergeSort**.
 - As barras são ordenadas em tempo real por cada algoritmo, com animações passo a passo.
 - É possível observar como o HeapSort utiliza uma estrutura de heap e como o MergeSort realiza divisões recursivas e fusões.
